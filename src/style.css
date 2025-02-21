@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-daruma: "Darumadrop One", sans-serif;
+}
